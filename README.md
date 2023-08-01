@@ -20,7 +20,7 @@ Project developed with React to order food.
 
 The project was deployed using Vercel.
 
-- [Food Order App in Vercel]()
+- [Food Order App in Vercel](https://food-order-app-beryl-beta.vercel.app/)
 
 ### Usage
 
